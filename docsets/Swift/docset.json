@@ -1,6 +1,6 @@
 {
     "name": "Raffe Yang",
-    "version": "1.0.0",
+    "version": "5.9",
     "archive": "Swift.tgz",
     "author": {
         "name": "Raffe Yang",
@@ -14,8 +14,8 @@
             "_comment": "This is optional. Only support specific/older versions if it actually makes sense. This list should be ordered, newest/latest versions should be at the top."
         },
         {
-            "version": "1.0.0",
-            "archive": "versions/1.0.0/Swift.tgz"
+            "version": "5.9",
+            "archive": "versions/5.9/Swift.tgz"
         }
     ]
 }
